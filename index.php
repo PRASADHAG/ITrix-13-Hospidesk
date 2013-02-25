@@ -5,6 +5,6 @@
 		<title>Hospidesk</title>
 	</head>
 	<body>
-		<?php echo "Hello World"; ?>
+		<?php echo "Yuvaraja"; ?>
     </body>
 </html>
